@@ -1,0 +1,77 @@
+{
+    "categories": [
+        {
+            "name": "Giày Sneaker",
+            "subcategory": [
+                "Giày Sneaker Nam",
+                "Giày Sneaker Nữ",
+                "Giày Chạy Bộ"
+            ]
+        },
+        {
+            "name": "Thời Trang Nam",
+            "subcategory": [
+                "Áo Khoác",
+                "Áo Hoodie",
+                "Quần Jean",
+                "Mắt Kính"
+            ]
+        },
+        {
+            "name": "Đồng Hồ",
+            "subcategory": [
+                "Đồng Hồ Nam",
+                "Đồng Hồ Nữ",
+                "Đồng Hồ Cặp"
+            ]
+        },
+        {
+            "name": "Laptop",
+            "subcategory": [
+                "Gaming",
+                "MacBook",
+                "Mỏng Nhẹ"
+            ]
+        },
+        {
+            "name": "Đồ Chơi",
+            "subcategory": [
+                "Mô Hình",
+                "Lego",
+                "Gấu Bông"
+            ]
+        },
+        {
+            "name": "Đồng Hồ Thông Minh",
+            "subcategory": [
+                "AppleWatch",
+                "SamSung",
+                "XiaoMi"
+            ]
+        },
+        {
+            "name": "Trang Sức",
+            "subcategory": [
+                "Nhẫn",
+                "Bông Tai",
+                "Dây Chuyền"
+            ]
+        },
+        {
+            "name": "Điện Thoại",
+            "subcategory": [
+                "Iphone",
+                "SamSung",
+                "XiaoMi"
+            ]
+        },
+        {
+            "name": "Máy Tính Bảng",
+            "subcategory": [
+                "Ipad",
+                "SamSung",
+                "Lenovo"
+            ]
+        }
+    ]
+}
